@@ -1,2 +1,3 @@
 first line new line test
 second line
+new line:wq
